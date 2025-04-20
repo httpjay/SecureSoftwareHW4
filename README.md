@@ -1,6 +1,6 @@
 # SecureSoftwareHW4
 
-```markdown
+
 # 🔐 AES-256-CBC Encrypt/Decrypt Tool
 
 Encrypt or decrypt messages using AES-256-CBC directly from the terminal.
@@ -16,7 +16,6 @@ Works on **macOS**, **Windows**, and **VS Code** — no extra setup needed!
 ### 👉 To check:
 ```bash
 node -v
-```
 
 If it shows a version, you're good.
 
