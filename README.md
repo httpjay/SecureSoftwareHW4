@@ -87,4 +87,4 @@ You can change these inside `ssd.js` if needed.
 
 **Jay A Panchal & Jil P Makwana**  
 MSCS @ Loyola Marymount University  
-```
+
